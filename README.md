@@ -4,6 +4,7 @@
 This repository is a part of "Free Open Source BootCamp". Checkout [Open Source Bootcamp Playlist on Youtube.](https://www.youtube.com/playlist?list=PLinedj3B30sAT6CotNj0iffhRV89SkNK9)
 
 ### Setting up Locally
+Hey There! If you want to run this project locally, follow the steps below:
 
 1. Copy the `.env.example` to `.env.local`
 
